@@ -1,14 +1,13 @@
-# Your Name
+# Liz Zhang
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo sed lorem pulvinar suscipit. Curabitur a consequat dolor, ut efficitur metus. Sed fermentum leo vitae tellus sollicitudin, id auctor elit tincidunt. Aliquam interdum fringilla mauris non volutpat. Cras scelerisque justo diam, nec rhoncus ipsum tristique nec.
+Graduate student of Heinz MISM-BIDA program. I love photography and film making, which is why I am taking this course.
 
 --
 ### Contact
 
-* Web Site: [http://example.com](http://example.com)
-* Twitter: [@your_name](http://twitter.com/your_name)
+* Web Site: [https://www.linkedin.com/pub/elizabeth-zhang/a2/222/968](https://www.linkedin.com/pub/elizabeth-zhang/a2/222/968)
 
 -- 
 ### Projects
